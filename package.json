@@ -1,6 +1,6 @@
 {
   "name": "eyeport",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Collection of useful methods to deal with element and viewports in DOM",
   "license": "MIT",
   "repository": "diegohaz/eyeport",
